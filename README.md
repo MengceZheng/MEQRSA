@@ -49,4 +49,4 @@ The attack costs 13.056 seconds...
 
 All the details of the numerical attack experiments are recorded in the `attack.log` file. A more efficient lattice reduction algorithm [flatter](https://github.com/keeganryan/flatter) is used and `USE_FLATTER = True`.
 
-[^MEQRSA]: Zheng M., Kunihiro N., Hu H., "Cryptanalysis of RSA Variants with Modified Euler Quotient" | [Slides](https://mengcezheng.github.io/docs/ZKH18.pdf)
+[^MEQRSA]: Zheng M., Kunihiro N., Hu H., "Cryptanalysis of RSA Variants with Modified Euler Quotient" | [PDF](https://mengcezheng.github.io/docs/ZKH18.pdf)
